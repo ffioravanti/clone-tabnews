@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do https://www.tanews.com.br
+Implementação do https://www.tabnews.com.br
